@@ -1,3 +1,6 @@
+Live Demo
+
+🚀 Try the application here: https://smart-hospital-flow-predictor.onrender.com
 # 🏥 Smart Hospital Flow Predictor
 
 An interactive machine learning prototype that estimates hospital patient waiting times and provides department resource insights through a Streamlit dashboard.
